@@ -135,7 +135,7 @@ npm start
 * #### APLICACIÓN RECOMENDADA PARA EDITAR [`NÚMERO DE OWNER`](https://play.google.com/store/apps/details?id=com.rhmsoft.code)
 > **Note** Guardar los archivos en la ubicación: storage/downloads/GataBot-MD-master/GataBot-MD-master   
 ----
-### 🚀 USAR GATABOT 24/7 EN TERMUX 
+### 🚀 USAR ALFONSOBOT 24/7 EN TERMUX 
 > Ejecutar estos comandos dentro de la carpeta GataBot-MD
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
@@ -183,12 +183,12 @@ rm -rf GataBotSession
 npm start
 ```
 ----
-### 😼 ACTUALIZAR GATABOT
+### 😼 ACTUALIZAR ALFONSOBOT
 > **Note** Comandos para actualizar GataBot-MD de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot-MD/master/update.sh | bash 
 ```
-#### Para que no pierda su progreso en GataBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
+#### Para que no pierda su progreso en ALFONSOBOT, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 > **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX                           
 ----
 ### 🟣 ACTIVAR EN HEROKU 
@@ -309,7 +309,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 </details>
 
 <details>
-<summary><b>¿Qué significa ser un Distribuidor Autorizado o reseller en GataBot?</b></summary>
+<summary><b>¿Qué significa ser un Distribuidor Autorizado o reseller en ALFONSO~BOT?</b></summary>
   
 - Aquellos usuarios que adquieran la licencia de Distribuidores Autorizados o resellers obtienen el derecho legal de utilizar este repositorio para fines educativos, políticos o comerciales, sin poner en riesgo su reputación personal u organizacional.
 </details>
@@ -326,10 +326,10 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
   - Lo hemos simplificado para ti. Si deseas conocer la lista y contactar al reseller para verificar su autenticidad, simplemente visita este **[enlace](https://github.com/GataNina-Li/GataBot-MD/blob/master/dealers.md)**. La licencia debe estar disponible públicamente en el repositorio del distribuidor, y si tanto su nombre de usuario en GitHub como el código de la licencia coinciden con nuestra lista, significa que está **[verificado](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** como parte de resellers de GataBot. **¡Estamos aquí para garantizar transparencia y calidad en nuestra red de distribución!**
 </details>
 
-> Recuerda leer la **[Política de GataBot. 😼](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** antes de hacer algo con este repositorio. 
+> Recuerda leer la **[Política de ALFONSOBOT. 😼](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** antes de hacer algo con este repositorio. 
   
 ----
-### 💠 [`IDIOMAS DISPONIBLES PARA GATABOT`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js) 
+### 💠 [`IDIOMAS DISPONIBLES PARA ALFONSOBOT`](https://github.com/GataNina-Li/GataBot-MD/blob/master/config.js) 
 #### 🌐 Español  
 #### 🌐 Inglés (English) 
 #### 🌐 Portugués (Português)
@@ -343,10 +343,10 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 <a href="https://github.com/GataNina-Li/GataBot-MD/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=GataNina-Li/GataBot-MD" /> 
 </a>
-
+</ALFONSO/>
 ### 🌟 AGRADECIMIENTOS
 [![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=60)](https://github.com/BrunoSobrino) 
 
-### 🌟 CREADORA 
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
-> Copyright (c) 2024 **[GataNina-Li](https://github.com/GataNina-Li/GataBot-MD/blob/master/LICENSE)**.
+### 🌟 CREADOR 
+[![ALFONSO~BOT](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+> Copyright (c) 2024 **[ALFONSO~BOT](https://github.com/GataNina-Li/GataBot-MD/blob/master/LICENSE)**.
